@@ -8,7 +8,7 @@ import matplotlib.pyplot as plt
 apod_url = "https://api.nasa.gov/planetary/apod"
 
 # Parameters
-api_key = "a4fpHga5Mzddp3l6xtwwqT2P5dPcXeCpEwaCSAGn" 
+api_key = " "  #use API key/..
 
 # Request headers
 headers = {
