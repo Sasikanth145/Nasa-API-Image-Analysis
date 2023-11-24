@@ -12,7 +12,7 @@ api_key = " "  #use API key/..
 
 # Request headers
 headers = {
-    "User-Agent": "Mozilla/5.0",
+    "User-Agent": "",
     "Content-Type": "application/json"
 }
 
