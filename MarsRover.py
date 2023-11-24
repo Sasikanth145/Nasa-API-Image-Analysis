@@ -15,7 +15,7 @@ sol = 1000  # Martian sol (day) to retrieve photos from
 
 # Request headers
 headers = {
-    "User-Agent": "Mozilla/5.0",
+    "User-Agent": "",
     "Content-Type": "application/json"
 }
 
